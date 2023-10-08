@@ -48,7 +48,7 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=andreabrighi&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreabrighi&hide=TLA,Assembly,Vue,css,ANTLR,lua&theme=discord_old_blurple&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreabrighi&theme=dracula&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
