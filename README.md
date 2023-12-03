@@ -11,6 +11,8 @@
 ![C++](https://img.shields.io/badge/C++-Beginner-green)
 ![Prolog](https://img.shields.io/badge/Prolog-Beginner-green)
 
+<a href="https://app.daily.dev/andreabrighi"><img src="https://api.daily.dev/devcards/7e87b157af6b47648b8c0b2112cd03a2.png?r=zav" width="400" alt="Andrea Brighi's Dev Card"/></a>
+
 ## About me
 
 - 🎓 I'm a Master's Student in Computer Engineering and Science at University of Bologna
