@@ -1,5 +1,8 @@
 # Andrea Brighi
 
+<a href="https://app.daily.dev/andreabrighi"><img src="https://api.daily.dev/devcards/7e87b157af6b47648b8c0b2112cd03a2.png?r=zav" align="right"
+    width="400" alt="Andrea Brighi's Dev Card"/></a>
+    
 ![Java](https://img.shields.io/badge/Java-Fluent-red)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
 ![Scala](https://img.shields.io/badge/Scala-Intermediate-blue)
@@ -10,8 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-Beginner-green)
 ![C++](https://img.shields.io/badge/C++-Beginner-green)
 ![Prolog](https://img.shields.io/badge/Prolog-Beginner-green)
-
-<a href="https://app.daily.dev/andreabrighi"><img src="https://api.daily.dev/devcards/7e87b157af6b47648b8c0b2112cd03a2.png?r=zav" width="400" alt="Andrea Brighi's Dev Card"/></a>
 
 ## About me
 
